@@ -1,0 +1,35 @@
+daw1_b@1DAM-14 MINGW64 /d/Educa/daw1_b/Escritorio/examen-Pastor-Lopez-Puigcerver/entornos1T/respuestas (Pastor-Lopez-Puigcerver)
+$ git status
+On branch Pastor-Lopez-Puigcerver
+nothing to commit, working tree clean
+
+
+daw1_b@1DAM-14 MINGW64 /d/Educa/daw1_b/Escritorio/examen-Pastor-Lopez-Puigcerver/entornos1T/respuestas (Pastor-Lopez-Puigcerver)
+$ git log
+commit 1ada168a73745777bf4238cdd4a253c476896ba9 (HEAD -> Pastor-Lopez-Puigcerver)
+Author: Jaime Pastor <jaime.pastor6@educa.madrid.org>
+Date:   Fri Dec 4 19:35:30 2020 +0100
+
+    Añadida respuesta ejercicio 1.6
+
+commit 9f7b5f53065b7ef92d227bfb376e454066601ee0
+Author: Jaime Pastor <jaime.pastor6@educa.madrid.org>
+Date:   Fri Dec 4 19:31:41 2020 +0100
+
+    Añadida respuestas ejercicio 1.4
+
+commit b79c7ba1a5c71fc30ef8de370fdd12c40e316a8a (origin/main, origin/HEAD, main)
+Author: Carlos González Sánchez <carlosgs.iesquevedo@gmail.com>
+Date:   Fri Dec 4 11:11:30 2020 +0100
+
+    Update .gitignore
+
+    Ignorar ficheros de IntelliJ y MacOS
+
+commit 7b39baf748c6a994c95cdb9df0eba4b586319a14
+Author: Carlos González Sánchez <carlosgs.iesquevedo@gmail.com>
+:
+Date:   Fri Dec 4 11:03:21 2020 +0100
+
+    Initial commit
+(END)

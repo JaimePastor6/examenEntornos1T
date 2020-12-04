@@ -1,0 +1,7 @@
+ git log --pretty=oneline
+9f7b5f53065b7ef92d227bfb376e454066601ee0 (HEAD -> Pastor-Lopez-Puigcerver) Añadida respuestas ejercicio 1.4
+b79c7ba1a5c71fc30ef8de370fdd12c40e316a8a (origin/main, origin/HEAD, main) Update .gitignore
+7b39baf748c6a994c95cdb9df0eba4b586319a14 Initial commit
+
+daw1_b@1DAM-14 MINGW64 /d/Educa/daw1_b/Escritorio/examen-Pastor-Lopez-Puigcerver/entornos1T/respuestas (Pastor-Lopez-Puigcerver)
+$

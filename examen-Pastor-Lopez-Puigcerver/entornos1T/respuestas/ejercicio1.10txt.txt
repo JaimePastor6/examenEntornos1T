@@ -1,0 +1,21 @@
+git checkout master
+git merge Pastor-Lopez-Puigcerver
+
+daw1_b@1DAM-14 MINGW64 /d/Educa/daw1_b/Escritorio/examen-Pastor-Lopez-Puigcerver/entornos1T ((b79c7ba...))
+$ git merge Pastor-Lopez-Puigcerver
+Updating b79c7ba..4d8806b
+Fast-forward
+ respuestas/ejercicio1.4.txt.txt | 35 +++++++++++++++++++++++++++++++++++
+ respuestas/ejercicio1.6 txt.txt |  7 +++++++
+ 2 files changed, 42 insertions(+)
+ create mode 100644 respuestas/ejercicio1.4.txt.txt
+ create mode 100644 respuestas/ejercicio1.6 txt.txt
+
+
+daw1_b@1DAM-14 MINGW64 /d/Educa/daw1_b/Escritorio/examen-Pastor-Lopez-Puigcerver/entornos1T ((4d8806b...))
+$  git log --pretty=oneline
+4d8806b06a06996731b44ed3db8efa65d1226987 (HEAD, Pastor-Lopez-Puigcerver) Añadida respuesta ejercicio 1.4
+1ada168a73745777bf4238cdd4a253c476896ba9 Añadida respuesta ejercicio 1.6
+9f7b5f53065b7ef92d227bfb376e454066601ee0 (tag: Pastor-Lopez-Puigcerver-paso5) Añadida respuestas ejercicio 1.4
+b79c7ba1a5c71fc30ef8de370fdd12c40e316a8a (origin/main, origin/HEAD, main) Update .gitignore
+7b39baf748c6a994c95cdb9df0eba4b586319a14 Initial commit
